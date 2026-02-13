@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         获取发票号码
 // @namespace    https://github.com/vigor-jzy/Scripts/edit/main/jd_fapiao_zhushou.js
-// @version      1.1
+// @version      1.2
 // @description  展示对应发票号码到当前页的发票详情下方
 // @author       vigor
 // @match        https://myivc.jd.com/fpzz*
