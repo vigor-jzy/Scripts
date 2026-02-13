@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         获取发票号码
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  展示对应发票号码到当前页的发票详情下方
-// @author       You
+// @author       vigor
 // @match        https://myivc.jd.com/fpzz*
 // @match        https://order.jd.com/center/list.action*
 // @match        https://order.jd.com/center/search.action*
