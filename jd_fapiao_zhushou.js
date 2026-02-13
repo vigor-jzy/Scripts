@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         获取发票号码
-// @namespace    https://github.com/vigor-jzy/Scripts/edit/main/jd_fapiao_zhushou.js
-// @version      1.2
+// @namespace    https://github.com/vigor-jzy/Scripts/blob/main/jd_fapiao_zhushou.js
+// @version      1.3
 // @description  展示对应发票号码到当前页的发票详情下方; 右上角可以输入多行发票号码在当前页筛选，匹配上的会展示红色;
 // @author       vigor
 // @match        https://myivc.jd.com/fpzz*
